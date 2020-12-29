@@ -1,0 +1,12 @@
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\bin\Debug\net5.0\My.Core.deps.json
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\bin\Debug\net5.0\My.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\bin\Debug\net5.0\ref\My.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\bin\Debug\net5.0\My.Core.pdb
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\My.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\My.Core.AssemblyInfoInputs.cache
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\My.Core.AssemblyInfo.cs
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\My.Core.csproj.CoreCompileInputs.cache
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\My.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\ref\My.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\My.Core.pdb
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.Core\obj\Debug\net5.0\My.Core.csprojAssemblyReference.cache

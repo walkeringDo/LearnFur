@@ -1,0 +1,16 @@
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\bin\Debug\net5.0\My.EntituFramework.Core.deps.json
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\bin\Debug\net5.0\My.EntituFramework.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\bin\Debug\net5.0\ref\My.EntituFramework.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\bin\Debug\net5.0\My.EntituFramework.Core.pdb
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\bin\Debug\net5.0\My.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\bin\Debug\net5.0\My.Core.pdb
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.csprojAssemblyReference.cache
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.AssemblyInfoInputs.cache
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.AssemblyInfo.cs
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.csproj.CoreCompileInputs.cache
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.csproj.CopyComplete
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\ref\My.EntituFramework.Core.dll
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\obj\Debug\net5.0\My.EntituFramework.Core.pdb
+E:\c# project\Fur\FurStady\FurBllDllPro\MyFurApp\My.EntituFramework.Core\bin\Debug\net5.0\MyJson.json

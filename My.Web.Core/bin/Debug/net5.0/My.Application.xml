@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>My.Application</name>
+    </assembly>
+    <members>
+        <member name="T:My.Application.PersonAppService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:My.Application.PersonAppService.#ctor(Fur.DatabaseAccessor.IRepository{My.Core.Entites.Person})">
+            <summary>
+            
+            </summary>
+            <param name="repository"></param>
+        </member>
+        <member name="M:My.Application.PersonAppService.insert(My.Core.Entites.Person)">
+            <summary>
+            新增
+            </summary>
+            <param name="person"></param>
+        </member>
+        <member name="M:My.Application.PersonAppService.GetAll">
+            <summary>
+            查询
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

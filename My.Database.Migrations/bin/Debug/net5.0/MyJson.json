@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "Sqlitedb": "Data Source=./My.db",
+    "SqlServerdb":""
+  }
+}
